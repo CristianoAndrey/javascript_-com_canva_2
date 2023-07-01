@@ -1,23 +1,3 @@
-
-// c.fillStyle = "gray";
-// c.fillRect(100, 100, 100, 100);
-
-// console.log(canvas);
-// c.beginPath();
-// c.moveTo(50,300);
-// c.lineTo(500,200);
-// c.strokeStyle = "blue";
-// c.stroke();
-
-
-// for (var i=0; i < 4; i++){
-//     var x = Math.random() * window.innerWidth;
-//     var y = ;
-//     c.beginPath();
-//     c.arc(x, y, 30, 0, Math.PI * 2, false); 
-//     c.stroke();
-// }
-
 var canvas = document.querySelector('canvas');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
